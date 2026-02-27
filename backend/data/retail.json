@@ -1,0 +1,182 @@
+[
+    {
+        "id": "r1",
+        "name": "Wireless Earbuds (BoAt Airdopes)",
+        "category": "electronics",
+        "price": 1299,
+        "time_minutes": 15,
+        "comfort_score": 0.85,
+        "exploration_score": 0.2,
+        "tags": [
+            "audio",
+            "wireless",
+            "popular"
+        ],
+        "description": "Best-selling TWS earbuds with 40-hour battery, IPX5 water resistance, and low-latency gaming mode."
+    },
+    {
+        "id": "r2",
+        "name": "Graphic Novel: Maus",
+        "category": "books",
+        "price": 599,
+        "time_minutes": 10,
+        "comfort_score": 0.5,
+        "exploration_score": 0.9,
+        "tags": [
+            "book",
+            "graphic-novel",
+            "award-winning"
+        ],
+        "description": "Pulitzer Prize-winning graphic novel by Art Spiegelman. A powerful Holocaust narrative told through animal allegory."
+    },
+    {
+        "id": "r3",
+        "name": "Minimalist Leather Wallet",
+        "category": "accessories",
+        "price": 450,
+        "time_minutes": 5,
+        "comfort_score": 0.8,
+        "exploration_score": 0.3,
+        "tags": [
+            "accessory",
+            "leather",
+            "everyday"
+        ],
+        "description": "Slim RFID-blocking leather wallet with 6 card slots. Perfect daily carry."
+    },
+    {
+        "id": "r4",
+        "name": "Portable Bluetooth Speaker (JBL Go 3)",
+        "category": "electronics",
+        "price": 2999,
+        "time_minutes": 10,
+        "comfort_score": 0.8,
+        "exploration_score": 0.4,
+        "tags": [
+            "audio",
+            "portable",
+            "waterproof"
+        ],
+        "description": "Ultra-portable speaker with punchy bass, IP67 waterproofing, and 5-hour playtime."
+    },
+    {
+        "id": "r5",
+        "name": "Artisan Coffee Brewing Kit",
+        "category": "food-and-drink",
+        "price": 1800,
+        "time_minutes": 20,
+        "comfort_score": 0.4,
+        "exploration_score": 0.95,
+        "tags": [
+            "coffee",
+            "artisan",
+            "hobby"
+        ],
+        "description": "Pour-over coffee set with V60 dripper, filters, gooseneck kettle, and single-origin beans."
+    },
+    {
+        "id": "r6",
+        "name": "Cotton Oversized T-Shirt",
+        "category": "clothing",
+        "price": 399,
+        "time_minutes": 5,
+        "comfort_score": 0.9,
+        "exploration_score": 0.1,
+        "tags": [
+            "clothing",
+            "casual",
+            "cotton"
+        ],
+        "description": "Soft 100% cotton oversized tee in muted earth tones. Comfortable all-day wear."
+    },
+    {
+        "id": "r7",
+        "name": "Noise-Cancelling Headphones (Sony WH-1000XM5)",
+        "category": "electronics",
+        "price": 24990,
+        "time_minutes": 15,
+        "comfort_score": 0.95,
+        "exploration_score": 0.3,
+        "tags": [
+            "audio",
+            "premium",
+            "noise-cancelling"
+        ],
+        "description": "Industry-leading ANC headphones with 30-hour battery, multipoint connectivity, and studio-grade sound."
+    },
+    {
+        "id": "r8",
+        "name": "Indoor Plant (Money Plant in Ceramic Pot)",
+        "category": "home",
+        "price": 350,
+        "time_minutes": 10,
+        "comfort_score": 0.7,
+        "exploration_score": 0.6,
+        "tags": [
+            "plant",
+            "decor",
+            "low-maintenance"
+        ],
+        "description": "Hardy money plant in a handcrafted ceramic pot. Purifies air and adds a green touch to any room."
+    },
+    {
+        "id": "r9",
+        "name": "Mechanical Keyboard (Keychron K2)",
+        "category": "electronics",
+        "price": 5999,
+        "time_minutes": 15,
+        "comfort_score": 0.7,
+        "exploration_score": 0.7,
+        "tags": [
+            "keyboard",
+            "mechanical",
+            "productivity"
+        ],
+        "description": "75% wireless mech keyboard with hot-swappable switches, RGB backlight, and Mac/Windows support."
+    },
+    {
+        "id": "r10",
+        "name": "Essential Oil Diffuser",
+        "category": "home",
+        "price": 799,
+        "time_minutes": 5,
+        "comfort_score": 0.8,
+        "exploration_score": 0.5,
+        "tags": [
+            "wellness",
+            "aromatherapy",
+            "decor"
+        ],
+        "description": "Ultrasonic diffuser with ambient LED lighting. Comes with lavender and eucalyptus oils."
+    },
+    {
+        "id": "r11",
+        "name": "Sketchbook + Micron Pen Set",
+        "category": "stationery",
+        "price": 650,
+        "time_minutes": 10,
+        "comfort_score": 0.5,
+        "exploration_score": 0.85,
+        "tags": [
+            "art",
+            "creative",
+            "stationery"
+        ],
+        "description": "A5 180gsm sketchbook bundled with Sakura Micron archival-ink pens (0.2–0.8mm)."
+    },
+    {
+        "id": "r12",
+        "name": "Stainless Steel Water Bottle",
+        "category": "accessories",
+        "price": 499,
+        "time_minutes": 5,
+        "comfort_score": 0.9,
+        "exploration_score": 0.1,
+        "tags": [
+            "eco-friendly",
+            "everyday",
+            "durable"
+        ],
+        "description": "Double-walled insulated bottle keeps drinks hot 12h or cold 24h. 750ml capacity."
+    }
+]

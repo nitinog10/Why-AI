@@ -1,0 +1,182 @@
+[
+    {
+        "id": "t1",
+        "name": "Street Food Walk in Chandni Chowk",
+        "category": "food-tour",
+        "price": 300,
+        "time_minutes": 90,
+        "comfort_score": 0.3,
+        "exploration_score": 0.95,
+        "tags": [
+            "food",
+            "walking",
+            "cultural"
+        ],
+        "description": "Guided walk through Delhi's oldest market sampling paranthe, jalebi, and chaat from legendary stalls."
+    },
+    {
+        "id": "t2",
+        "name": "Airport Lounge Access (Plaza Premium)",
+        "category": "lounge",
+        "price": 1500,
+        "time_minutes": 120,
+        "comfort_score": 0.95,
+        "exploration_score": 0.1,
+        "tags": [
+            "lounge",
+            "comfort",
+            "airport"
+        ],
+        "description": "Premium lounge with buffet, shower, Wi-Fi, and recliner seats. Perfect for long layovers."
+    },
+    {
+        "id": "t3",
+        "name": "Qutub Minar Visit",
+        "category": "sightseeing",
+        "price": 200,
+        "time_minutes": 60,
+        "comfort_score": 0.5,
+        "exploration_score": 0.8,
+        "tags": [
+            "heritage",
+            "unesco",
+            "monument"
+        ],
+        "description": "UNESCO World Heritage Site — the tallest brick minaret in the world, dating back to 1193 AD."
+    },
+    {
+        "id": "t4",
+        "name": "Café Hopping in Hauz Khas Village",
+        "category": "food-tour",
+        "price": 500,
+        "time_minutes": 75,
+        "comfort_score": 0.7,
+        "exploration_score": 0.8,
+        "tags": [
+            "cafe",
+            "artsy",
+            "trendy"
+        ],
+        "description": "Explore quirky cafés, art galleries, and boutique shops in one of Delhi's most vibrant neighbourhoods."
+    },
+    {
+        "id": "t5",
+        "name": "Metro Ride to Connaught Place",
+        "category": "sightseeing",
+        "price": 50,
+        "time_minutes": 45,
+        "comfort_score": 0.6,
+        "exploration_score": 0.7,
+        "tags": [
+            "metro",
+            "shopping",
+            "urban"
+        ],
+        "description": "Quick metro trip to CP — browse Janpath market, grab Keventers milkshake, and people-watch."
+    },
+    {
+        "id": "t6",
+        "name": "Spa Session at Hotel",
+        "category": "wellness",
+        "price": 2500,
+        "time_minutes": 60,
+        "comfort_score": 0.98,
+        "exploration_score": 0.05,
+        "tags": [
+            "spa",
+            "relaxation",
+            "luxury"
+        ],
+        "description": "Full-body Swedish massage at a 5-star hotel spa. Ideal for de-stressing during a long trip."
+    },
+    {
+        "id": "t7",
+        "name": "National Museum Tour",
+        "category": "sightseeing",
+        "price": 100,
+        "time_minutes": 90,
+        "comfort_score": 0.6,
+        "exploration_score": 0.85,
+        "tags": [
+            "museum",
+            "history",
+            "art"
+        ],
+        "description": "India's largest museum with 200,000+ artefacts spanning 5,000 years of Indian civilisation."
+    },
+    {
+        "id": "t8",
+        "name": "Chai at a Railway Platform Stall",
+        "category": "beverage",
+        "price": 15,
+        "time_minutes": 10,
+        "comfort_score": 0.5,
+        "exploration_score": 0.6,
+        "tags": [
+            "tea",
+            "budget",
+            "authentic"
+        ],
+        "description": "Classic kulhad chai from a railway platform vendor. Costs almost nothing, tastes like nostalgia."
+    },
+    {
+        "id": "t9",
+        "name": "Lodhi Garden Morning Walk",
+        "category": "nature",
+        "price": 0,
+        "time_minutes": 45,
+        "comfort_score": 0.8,
+        "exploration_score": 0.6,
+        "tags": [
+            "park",
+            "heritage",
+            "peaceful"
+        ],
+        "description": "Serene walk through Mughal-era tombs and manicured gardens. Popular with joggers and bird-watchers."
+    },
+    {
+        "id": "t10",
+        "name": "Local Cooking Class",
+        "category": "experience",
+        "price": 1200,
+        "time_minutes": 120,
+        "comfort_score": 0.5,
+        "exploration_score": 0.95,
+        "tags": [
+            "cooking",
+            "cultural",
+            "hands-on"
+        ],
+        "description": "Learn to cook butter chicken and naan from scratch with a local home chef in old Delhi."
+    },
+    {
+        "id": "t11",
+        "name": "Rickshaw Ride through Old Delhi",
+        "category": "sightseeing",
+        "price": 100,
+        "time_minutes": 30,
+        "comfort_score": 0.35,
+        "exploration_score": 0.9,
+        "tags": [
+            "rickshaw",
+            "adventure",
+            "cultural"
+        ],
+        "description": "Bumpy, thrilling cycle-rickshaw ride through the narrow lanes of Shahjahanabad."
+    },
+    {
+        "id": "t12",
+        "name": "Co-working Space Day Pass",
+        "category": "productivity",
+        "price": 600,
+        "time_minutes": 240,
+        "comfort_score": 0.85,
+        "exploration_score": 0.2,
+        "tags": [
+            "work",
+            "wifi",
+            "quiet"
+        ],
+        "description": "Day pass at a modern co-working space with high-speed WiFi, coffee bar, and meeting rooms."
+    }
+]

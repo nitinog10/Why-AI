@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c1",
+    "name": "Masala Dosa",
+    "category": "meal",
+    "price": 50,
+    "time_minutes": 10,
+    "comfort_score": 0.8,
+    "exploration_score": 0.2,
+    "tags": ["vegetarian", "south-indian", "quick-bite"],
+    "description": "Classic crispy dosa with potato masala filling, served with sambar and chutney at the main canteen."
+  },
+  {
+    "id": "c2",
+    "name": "Chicken Biryani",
+    "category": "meal",
+    "price": 150,
+    "time_minutes": 20,
+    "comfort_score": 0.9,
+    "exploration_score": 0.3,
+    "tags": ["non-veg", "rice", "filling"],
+    "description": "Fragrant basmati rice layered with spiced chicken, slow-cooked and served with raita."
+  },
+  {
+    "id": "c3",
+    "name": "Coffee at Nescafe Corner",
+    "category": "beverage",
+    "price": 30,
+    "time_minutes": 5,
+    "comfort_score": 0.9,
+    "exploration_score": 0.1,
+    "tags": ["beverage", "caffeine", "quick"],
+    "description": "Hot instant coffee — the campus classic for a quick energy boost between classes."
+  },
+  {
+    "id": "c4",
+    "name": "Paneer Tikka Wrap",
+    "category": "meal",
+    "price": 90,
+    "time_minutes": 12,
+    "comfort_score": 0.6,
+    "exploration_score": 0.5,
+    "tags": ["vegetarian", "wrap", "spicy"],
+    "description": "Grilled paneer tikka wrapped in a soft roti with mint chutney and onions."
+  },
+  {
+    "id": "c5",
+    "name": "Ramen Bowl (Pop-up Stall)",
+    "category": "meal",
+    "price": 180,
+    "time_minutes": 25,
+    "comfort_score": 0.4,
+    "exploration_score": 0.9,
+    "tags": ["japanese", "noodles", "fusion"],
+    "description": "Limited-time ramen pop-up near the library. Rich tonkotsu broth with soft-boiled egg."
+  },
+  {
+    "id": "c6",
+    "name": "Idli-Sambar Plate",
+    "category": "meal",
+    "price": 35,
+    "time_minutes": 8,
+    "comfort_score": 0.85,
+    "exploration_score": 0.1,
+    "tags": ["vegetarian", "south-indian", "healthy"],
+    "description": "Steamed idlis with piping hot sambar and coconut chutney. Light and wholesome."
+  },
+  {
+    "id": "c7",
+    "name": "Open Mic Night",
+    "category": "event",
+    "price": 0,
+    "time_minutes": 60,
+    "comfort_score": 0.5,
+    "exploration_score": 0.95,
+    "tags": ["event", "social", "music"],
+    "description": "Weekly open mic at the amphitheatre. Perform or watch — great way to discover campus talent."
+  },
+  {
+    "id": "c8",
+    "name": "Samosa + Chai Combo",
+    "category": "snack",
+    "price": 25,
+    "time_minutes": 7,
+    "comfort_score": 0.9,
+    "exploration_score": 0.1,
+    "tags": ["snack", "tea", "budget"],
+    "description": "Two crispy samosas with a hot cup of cutting chai. The unbeatable campus classic."
+  },
+  {
+    "id": "c9",
+    "name": "Robotics Club Workshop",
+    "category": "event",
+    "price": 100,
+    "time_minutes": 90,
+    "comfort_score": 0.3,
+    "exploration_score": 0.95,
+    "tags": ["event", "tech", "workshop"],
+    "description": "Hands-on Arduino workshop by the Robotics Club. Build a mini line-follower bot."
+  },
+  {
+    "id": "c10",
+    "name": "Fresh Fruit Juice",
+    "category": "beverage",
+    "price": 40,
+    "time_minutes": 5,
+    "comfort_score": 0.7,
+    "exploration_score": 0.3,
+    "tags": ["beverage", "healthy", "fresh"],
+    "description": "Freshly squeezed seasonal fruit juice from the juice bar near Gate 2."
+  },
+  {
+    "id": "c11",
+    "name": "Veg Thali",
+    "category": "meal",
+    "price": 80,
+    "time_minutes": 25,
+    "comfort_score": 0.85,
+    "exploration_score": 0.2,
+    "tags": ["vegetarian", "thali", "filling"],
+    "description": "Full vegetarian thali with dal, sabzi, roti, rice, papad, and pickle."
+  },
+  {
+    "id": "c12",
+    "name": "Midnight Maggi Stall",
+    "category": "snack",
+    "price": 30,
+    "time_minutes": 10,
+    "comfort_score": 0.7,
+    "exploration_score": 0.6,
+    "tags": ["snack", "late-night", "noodles"],
+    "description": "The iconic late-night Maggi stall outside the hostel. Cheese or egg Maggi available."
+  }
+]
